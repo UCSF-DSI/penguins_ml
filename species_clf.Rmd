@@ -95,6 +95,7 @@ We'll create bootstrap samples on our training set, so we can have cross-validat
 ```{r}
 set.seed(123)
 penguin_bootstraps <- bootstraps(penguin_train)
+penguin_bootstraps
 ```
 
 ## Create Recipes and Workflows
@@ -108,7 +109,8 @@ preprocessing_recipe <- penguins_df %>%
 ```
 
 Now, we'll build three separate workflows using the recipe we just created. The three separate workflows will correspond to three different types of ML (classification) algorithms: 
-- [k-nearest neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) - [decision tree](https://en.wikipedia.org/wiki/Decision_tree_learning)
+- [k-nearest neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) 
+- [decision tree](https://en.wikipedia.org/wiki/Decision_tree_learning)
 - [random forest](https://en.wikipedia.org/wiki/Random_forest)
 
 ```{r}
