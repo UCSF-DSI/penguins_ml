@@ -11,6 +11,8 @@ There are three R markdown files you should be aware of.
 # Getting Started
 Start by downloading this repository as a zip file. Once you have done that, extract the folder, and open the file *penguins_ml.Rproj*.
 
+![](images/download_zip.png)
+
 # Requirements
 You'll need to have R and RStudio installed. In addition, you'll need to have the following packages installed:
 - tidyverse
