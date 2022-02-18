@@ -3,6 +3,7 @@ This repository contains the files used in the demo and project of DSI Hacky Hou
 
 There are three R markdown files you should be aware of.
 | File | Description |
+| :- | :- |
 | species_clf.Rmd | R Markdown Notebook containing the code used in the demo to classify penguin species |
 | sex_clf_blank.Rmd | R Markdown Notebook containing the template you'll use to complete the project (classify penguin sex) |
 | sex_clf_solution.Rmd | R Markdown Notebook containing the solution to the project (classify penguin sex) |
