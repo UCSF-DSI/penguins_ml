@@ -1,0 +1,3 @@
+"0","dt_workflow <- workflow() %>%"
+"0","  add_recipe(preprocessing_recipe) %>%"
+"0","  add_model(decision_tree(mode=""classification""))"

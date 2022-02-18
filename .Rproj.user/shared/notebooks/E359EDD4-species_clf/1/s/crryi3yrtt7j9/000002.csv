@@ -1,0 +1,3 @@
+"0","preprocessing_recipe <- penguins_df %>%"
+"0","  recipe(species ~ .) %>%"
+"0","  step_impute_knn(all_predictors())"

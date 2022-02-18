@@ -1,0 +1,27 @@
+{
+    "id": "684ED27B",
+    "path": "~/Desktop/penguins_ml/species_clf.Rmd",
+    "project_path": "species_clf.Rmd",
+    "type": "r_markdown",
+    "hash": "70449740",
+    "contents": "",
+    "dirty": false,
+    "created": 1645193049901.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "194,51",
+        "scrollLine": "188"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1645206547,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1645206547727,
+    "read_only": false,
+    "read_only_alternatives": []
+}
