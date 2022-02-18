@@ -1,2 +1,0 @@
-"0","penguin_final <- knn_workflow %>%"
-"0","  last_fit(penguin_split)"

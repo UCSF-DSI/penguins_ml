@@ -1,3 +1,0 @@
-"0","rf_workflow <- workflow() %>%"
-"0","  add_recipe(preprocessing_recipe) %>%"
-"0","  add_model(rand_forest(mode=""classification""))"

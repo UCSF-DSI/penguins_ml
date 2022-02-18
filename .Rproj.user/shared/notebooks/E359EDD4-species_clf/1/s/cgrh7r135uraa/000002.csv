@@ -1,5 +1,0 @@
-"0","set.seed(123)"
-"0",""
-"0","penguin_split <- initial_split(penguins_df, strata = species)"
-"0","penguin_train <- training(penguin_split)"
-"0","penguin_test <- testing(penguin_split)"
